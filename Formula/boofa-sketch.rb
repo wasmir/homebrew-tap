@@ -1,8 +1,8 @@
 class BoofaSketch < Formula
   desc "Continuity Sketch helper — draw on iPad, insert anywhere"
   homepage "https://github.com/wasmir/boofa-sketch"
-  url "https://github.com/wasmir/boofa-sketch/releases/download/v1.0.0/BoofaSketch.zip"
-  sha256 "bd21b34c3ebcd1d049e9471a699796d245dea9906f39d1d4e0366a7431197b79"
+  url "https://github.com/wasmir/boofa-sketch/releases/download/v1.0.0/BoofaSketch.tar.gz"
+  sha256 "f3e8137fb695ee8f8eb3cd5f4e6e49e6627b005e7128015bdb69ec29d741aa5c"
   license "MIT"
 
   depends_on :macos
